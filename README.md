@@ -1,2 +1,2 @@
-# my-first-project
-This is my work project!
+# goit-markup-hw-01
+Homework 01 HTML Basics
